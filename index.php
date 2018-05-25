@@ -76,161 +76,6 @@
         include_once './slider.php';
         ?>
 
-        <!--=============== HOTEL OFFERS ===============-->
-        <section id="hotel-offers" class="section-padding">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="page-heading">
-                            <h2>Hotels Offers</h2>
-                            <hr class="heading-line" />
-                        </div><!-- end page-heading -->
-
-                        <div class="owl-carousel owl-theme owl-custom-arrow" id="owl-hotel-offers">
-
-                            <div class="item">
-                                <div class="main-block hotel-block">
-                                    <div class="main-img">
-                                        <a href="#">
-                                            <img src="images/hotel-1.jpg" class="img-responsive" alt="hotel-img" />
-                                        </a>
-                                        <div class="main-mask">
-                                            <ul class="list-unstyled list-inline offer-price-1">
-                                                <li class="price">$568.00<span class="divider">|</span><span class="pkg">Avg/Night</span></li>
-                                                <li class="rating">
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star lightgrey"></i></span>
-                                                </li>
-                                            </ul>
-                                        </div><!-- end main-mask -->
-                                    </div><!-- end offer-img -->
-
-                                    <div class="main-info hotel-info">
-                                        <div class="arrow">
-                                            <a href="#"><span><i class="fa fa-angle-right"></i></span></a>
-                                        </div><!-- end arrow -->
-
-                                        <div class="main-title hotel-title">
-                                            <a href="#">Herta Berlin Hotel</a>
-                                            <p>From: Scotland</p>
-                                        </div><!-- end hotel-title -->
-                                    </div><!-- end hotel-info -->
-                                </div><!-- end hotel-block -->
-                            </div><!-- end item -->
-
-                            <div class="item">
-                                <div class="main-block hotel-block">
-                                    <div class="main-img">
-                                        <a href="#">
-                                            <img src="images/hotel-2.jpg" class="img-responsive" alt="hotel-img" />
-                                        </a>
-                                        <div class="main-mask">
-                                            <ul class="list-unstyled list-inline offer-price-1">
-                                                <li class="price">$568.00<span class="divider">|</span><span class="pkg">Avg/Night</span></li>
-                                                <li class="rating">
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star lightgrey"></i></span>
-                                                </li>
-                                            </ul>
-                                        </div><!-- end main-mask -->
-                                    </div><!-- end offer-img -->
-
-                                    <div class="main-info hotel-info">
-                                        <div class="arrow">
-                                            <a href="#"><span><i class="fa fa-angle-right"></i></span></a>
-                                        </div><!-- end arrow -->
-
-                                        <div class="main-title hotel-title">
-                                            <a href="#">Roosevelt Hotel</a>
-                                            <p>From: Germany</p>
-                                        </div><!-- end hotel-title -->
-                                    </div><!-- end hotel-info -->
-                                </div><!-- end hotel-block -->
-                            </div><!-- end item -->
-
-                            <div class="item">
-                                <div class="main-block hotel-block">
-                                    <div class="main-img">
-                                        <a href="#">
-                                            <img src="images/hotel-3.jpg" class="img-responsive" alt="hotel-img" />
-                                        </a>
-                                        <div class="main-mask">
-                                            <ul class="list-unstyled list-inline offer-price-1">
-                                                <li class="price">$568.00<span class="divider">|</span><span class="pkg">Avg/Night</span></li>
-                                                <li class="rating">
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star lightgrey"></i></span>
-                                                </li>
-                                            </ul>
-                                        </div><!-- end main-mask -->
-                                    </div><!-- end offer-img -->
-
-                                    <div class="main-info hotel-info">
-                                        <div class="arrow">
-                                            <a href="#"><span><i class="fa fa-angle-right"></i></span></a>
-                                        </div><!-- end arrow -->
-
-                                        <div class="main-title hotel-title">
-                                            <a href="#">Hotel Fort De</a>
-                                            <p>From: Austria</p>
-                                        </div><!-- end hotel-title -->
-                                    </div><!-- end hotel-info -->
-                                </div><!-- end hotel-block -->
-                            </div><!-- end item -->
-
-                            <div class="item">
-                                <div class="main-block hotel-block">
-                                    <div class="main-img">
-                                        <a href="#">
-                                            <img src="images/hotel-4.jpg" class="img-responsive" alt="hotel-img" />
-                                        </a>
-                                        <div class="main-mask">
-                                            <ul class="list-unstyled list-inline offer-price-1">
-                                                <li class="price">$568.00<span class="divider">|</span><span class="pkg">Avg/Night</span></li>
-                                                <li class="rating">
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star lightgrey"></i></span>
-                                                </li>
-                                            </ul>
-                                        </div><!-- end main-mask -->
-                                    </div><!-- end offer-img -->
-
-                                    <div class="main-info hotel-info">
-                                        <div class="arrow">
-                                            <a href="#"><span><i class="fa fa-angle-right"></i></span></a>
-                                        </div><!-- end arrow -->
-
-                                        <div class="main-title hotel-title">
-                                            <a href="#">Roosevelt Hotel</a>
-                                            <p>From: Germany</p>
-                                        </div><!-- end hotel-title -->
-                                    </div><!-- end hotel-info -->
-                                </div><!-- end hotel-block -->
-                            </div><!-- end item -->
-
-                        </div><!-- end owl-hotel-offers -->
-
-                        <div class="view-all text-center">
-                            <a href="#" class="btn btn-orange">View All</a>
-                        </div><!-- end view-all -->
-                    </div><!-- end columns -->
-                </div><!-- end row -->
-            </div><!-- end container -->
-        </section><!-- end hotel-offers -->
-
-
         <!--======================= BEST FEATURES =====================-->
         <section id="best-features" class="banner-padding black-features">
             <div class="container">
@@ -270,157 +115,13 @@
             </div><!-- end container -->
         </section><!-- end best-features -->
 
-
-        <!--=============== TOUR OFFERS ===============-->
-        <section id="tour-offers" class="section-padding">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="page-heading">
-                            <h2>Tour Offers</h2>
-                            <hr class="heading-line" />
-                        </div><!-- end page-heading -->
-
-                        <div class="owl-carousel owl-theme owl-custom-arrow" id="owl-tour-offers">
-
-                            <div class="item">
-                                <div class="main-block tour-block">
-                                    <div class="main-img">
-                                        <a href="#">
-                                            <img src="images/tour-1.jpg" class="img-responsive" alt="tour-img" />
-                                        </a>
-                                    </div><!-- end offer-img -->
-
-                                    <div class="offer-price-2">
-                                        <ul class="list-unstyled">
-                                            <li class="price">$568.00<a href="#" ><span class="arrow"><i class="fa fa-angle-right"></i></span></a></li>
-                                        </ul>
-                                    </div><!-- end offer-price-2 -->
-
-                                    <div class="main-info tour-info">
-                                        <div class="main-title tour-title">
-                                            <a href="#">China Temple Tour</a>
-                                            <p>From: China</p>
-                                            <div class="rating">
-                                                <span><i class="fa fa-star orange"></i></span>
-                                                <span><i class="fa fa-star orange"></i></span>
-                                                <span><i class="fa fa-star orange"></i></span>
-                                                <span><i class="fa fa-star orange"></i></span>
-                                                <span><i class="fa fa-star grey"></i></span>
-                                            </div>
-                                        </div><!-- end tour-title -->
-                                    </div><!-- end tour-info -->
-                                </div><!-- end tour-block -->
-                            </div><!-- end item -->
-
-                            <div class="item">
-                                <div class="main-block tour-block">
-                                    <div class="main-img">
-                                        <a href="#">
-                                            <img src="images/tour-2.jpg" class="img-responsive" alt="tour-img" />
-                                        </a>
-                                    </div><!-- end offer-img -->
-
-                                    <div class="offer-price-2">
-                                        <ul class="list-unstyled">
-                                            <li class="price">$745.00<a href="#" ><span class="arrow"><i class="fa fa-angle-right"></i></span></a></li>
-                                        </ul>
-                                    </div><!-- end offer-price-2 -->
-
-                                    <div class="main-info tour-info">
-                                        <div class="main-title tour-title">
-                                            <a href="#">African Safari Tour</a>
-                                            <p>From: Africa</p>
-                                            <div class="rating">
-                                                <span><i class="fa fa-star orange"></i></span>
-                                                <span><i class="fa fa-star orange"></i></span>
-                                                <span><i class="fa fa-star orange"></i></span>
-                                                <span><i class="fa fa-star orange"></i></span>
-                                                <span><i class="fa fa-star grey"></i></span>
-                                            </div>
-                                        </div><!-- end tour-title -->
-                                    </div><!-- end tour-info -->
-                                </div><!-- end tour-block -->
-                            </div><!-- end item -->
-
-                            <div class="item">
-                                <div class="main-block tour-block">
-                                    <div class="main-img">
-                                        <a href="#">
-                                            <img src="images/tour-3.jpg" class="img-responsive" alt="tour-img" />
-                                        </a>
-                                    </div><!-- end offer-img -->
-
-                                    <div class="offer-price-2">
-                                        <ul class="list-unstyled">
-                                            <li class="price">$459.00<a href="#" ><span class="arrow"><i class="fa fa-angle-right"></i></span></a></li>
-                                        </ul>
-                                    </div><!-- end offer-price-2 -->
-
-                                    <div class="main-info tour-info">
-                                        <div class="main-title tour-title">
-                                            <a href="#">Paris City Tour</a>
-                                            <p>From: Paris</p>
-                                            <div class="rating">
-                                                <span><i class="fa fa-star orange"></i></span>
-                                                <span><i class="fa fa-star orange"></i></span>
-                                                <span><i class="fa fa-star orange"></i></span>
-                                                <span><i class="fa fa-star orange"></i></span>
-                                                <span><i class="fa fa-star grey"></i></span>
-                                            </div>
-                                        </div><!-- end tour-title -->
-                                    </div><!-- end tour-info -->
-                                </div><!-- end tour-block -->
-                            </div><!-- end item -->
-
-                            <div class="item">
-                                <div class="main-block tour-block">
-                                    <div class="main-img">
-                                        <a href="#">
-                                            <img src="images/tour-4.jpg" class="img-responsive" alt="tour-img" />
-                                        </a>
-                                    </div><!-- end offer-img -->
-
-                                    <div class="offer-price-2">
-                                        <ul class="list-unstyled">
-                                            <li class="price">$745.00<a href="#" ><span class="arrow"><i class="fa fa-angle-right"></i></span></a></li>
-                                        </ul>
-                                    </div><!-- end offer-price-2 -->
-
-                                    <div class="main-info tour-info">
-                                        <div class="main-title tour-title">
-                                            <a href="#">China Temple Tour</a>
-                                            <p>From: China</p>
-                                            <div class="rating">
-                                                <span><i class="fa fa-star orange"></i></span>
-                                                <span><i class="fa fa-star orange"></i></span>
-                                                <span><i class="fa fa-star orange"></i></span>
-                                                <span><i class="fa fa-star orange"></i></span>
-                                                <span><i class="fa fa-star grey"></i></span>
-                                            </div>
-                                        </div><!-- end tour-title -->
-                                    </div><!-- end tour-info -->
-                                </div><!-- end tour-block -->
-                            </div><!-- end item -->
-
-                        </div><!-- end owl-tour-offers -->
-
-                        <div class="view-all text-center">
-                            <a href="#" class="btn btn-orange">View All</a>
-                        </div><!-- end view-all -->
-                    </div><!-- end columns -->
-                </div><!-- end row -->
-            </div><!-- end container -->
-        </section><!-- end tour-offers -->
-
-
-        <!--=============== CRUISE OFFERS ===============-->
+        <!--=============== Tour Packages ===============-->
         <section id="cruise-offers" class="section-padding">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="page-heading">
-                            <h2>Cruise Offers</h2>
+                            <h2>Tour Packages</h2>
                             <hr class="heading-line" />
                         </div><!-- end page-heading -->
 
@@ -575,242 +276,142 @@
                         </div><!-- end view-all -->
                     </div><!-- end columns -->
                 </div><!-- end row -->
-            </div><!-- end container -->
-        </section><!-- end cruise-offers -->
+            </div>
+        </section>
 
-
-        <!--==================== VIDEO BANNER ===================-->
-        <section id="video-banner" class="banner-padding back-size"> 
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <h2>Take a Video Tour</h2>
-                        <p>Lorem ipsum dolor sit amet, ad duo fugit aeque fabulas, in lucilius prodesset pri. Veniam delectus ei vis. Est atqui timeam mnesarchum at, pro an eros perpetua ullamcorper.</p>
-
-                        <a href="https://youtube.com/watch?v=0O2aH4XLbto" class="popup-youtube" id="play-button"><span><i class="fa fa-play"></i></span></a>
-                    </div><!-- end columns -->
-                </div><!-- end row -->
-            </div><!-- end container -->
-        </section><!-- end video-banner -->
-
-
-        <!--================= FLIGHT OFFERS =============-->
-        <section id="flight-offers" class="section-padding">
+        <!--=============== Activities ===============-->
+        <section id="tour-offers" class="section-padding">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="page-heading">
-                            <h2>Flight Offers</h2>
+                            <h2>Activities</h2>
                             <hr class="heading-line" />
                         </div><!-- end page-heading -->
 
-                        <div class="row">
+                        <div class="owl-carousel owl-theme owl-custom-arrow" id="owl-tour-offers">
 
-                            <div class="col-sm-6 col-md-4">
-                                <div class="main-block flight-block">
-                                    <a href="#">
-                                        <div class="flight-img">
-                                            <img src="images/flight-1.jpg" class="img-responsive" alt="flight-img" />
-                                        </div><!-- end flight-img -->
+                            <div class="item">
+                                <div class="main-block tour-block">
+                                    <div class="main-img">
+                                        <a href="#">
+                                            <img src="images/tour-1.jpg" class="img-responsive" alt="tour-img" />
+                                        </a>
+                                    </div><!-- end offer-img -->
 
-                                        <div class="flight-info">
-                                            <div class="flight-title">
-                                                <h3><span class="flight-destination">Spain</span>|<span class="flight-type">OneWay Flight</span></h3>
-                                            </div><!-- end flight-title -->
+                                    <div class="offer-price-2">
+                                        <ul class="list-unstyled">
+                                            <li class="price">$568.00<a href="#" ><span class="arrow"><i class="fa fa-angle-right"></i></span></a></li>
+                                        </ul>
+                                    </div><!-- end offer-price-2 -->
 
-                                            <div class=" flight-timing">
-                                                <ul class="list-unstyled">
-                                                    <li><span><i class="fa fa-plane"></i></span><span class="date">Aug, 02-2017 </span>(8:40 PM)</li>
-                                                    <li><span><i class="fa fa-plane"></i></span><span class="date">Aug, 03-2017 </span>(8:40 PM)</li>
-                                                </ul>
-                                            </div><!-- end flight-timing -->
+                                    <div class="main-info tour-info">
+                                        <div class="main-title tour-title">
+                                            <a href="#">China Temple Tour</a>
+                                            <p>From: China</p>
+                                            <div class="rating">
+                                                <span><i class="fa fa-star orange"></i></span>
+                                                <span><i class="fa fa-star orange"></i></span>
+                                                <span><i class="fa fa-star orange"></i></span>
+                                                <span><i class="fa fa-star orange"></i></span>
+                                                <span><i class="fa fa-star grey"></i></span>
+                                            </div>
+                                        </div><!-- end tour-title -->
+                                    </div><!-- end tour-info -->
+                                </div><!-- end tour-block -->
+                            </div><!-- end item -->
 
-                                            <ul class="list-unstyled list-inline offer-price-1">
-                                                <li class="price">$568.00<span class="pkg">Avg/Person</span></li>
-                                                <li class="rating">
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star lightgrey"></i></span>
-                                                </li>
-                                            </ul>
-                                        </div><!-- end flight-info -->
-                                    </a>
-                                </div><!-- end flight-block -->
-                            </div><!-- end columns -->
+                            <div class="item">
+                                <div class="main-block tour-block">
+                                    <div class="main-img">
+                                        <a href="#">
+                                            <img src="images/tour-2.jpg" class="img-responsive" alt="tour-img" />
+                                        </a>
+                                    </div><!-- end offer-img -->
 
-                            <div class="col-sm-6 col-md-4">
-                                <div class="main-block flight-block">
-                                    <a href="#">
-                                        <div class="flight-img">
-                                            <img src="images/flight-2.jpg" class="img-responsive" alt="flight-img" />
-                                        </div><!-- end flight-img -->
+                                    <div class="offer-price-2">
+                                        <ul class="list-unstyled">
+                                            <li class="price">$745.00<a href="#" ><span class="arrow"><i class="fa fa-angle-right"></i></span></a></li>
+                                        </ul>
+                                    </div><!-- end offer-price-2 -->
 
-                                        <div class="flight-info">
-                                            <div class="flight-title">
-                                                <h3><span class="flight-destination">Spain</span>|<span class="flight-type">OneWay Flight</span></h3>
-                                            </div><!-- end flight-title -->
+                                    <div class="main-info tour-info">
+                                        <div class="main-title tour-title">
+                                            <a href="#">African Safari Tour</a>
+                                            <p>From: Africa</p>
+                                            <div class="rating">
+                                                <span><i class="fa fa-star orange"></i></span>
+                                                <span><i class="fa fa-star orange"></i></span>
+                                                <span><i class="fa fa-star orange"></i></span>
+                                                <span><i class="fa fa-star orange"></i></span>
+                                                <span><i class="fa fa-star grey"></i></span>
+                                            </div>
+                                        </div><!-- end tour-title -->
+                                    </div><!-- end tour-info -->
+                                </div><!-- end tour-block -->
+                            </div><!-- end item -->
 
-                                            <div class=" flight-timing">
-                                                <ul class="list-unstyled">
-                                                    <li><span><i class="fa fa-plane"></i></span><span class="date">Aug, 02-2017 </span>(8:40 PM)</li>
-                                                    <li><span><i class="fa fa-plane"></i></span><span class="date">Aug, 03-2017 </span>(8:40 PM)</li>
-                                                </ul>
-                                            </div><!-- end flight-timing -->
+                            <div class="item">
+                                <div class="main-block tour-block">
+                                    <div class="main-img">
+                                        <a href="#">
+                                            <img src="images/tour-3.jpg" class="img-responsive" alt="tour-img" />
+                                        </a>
+                                    </div><!-- end offer-img -->
 
-                                            <ul class="list-unstyled list-inline offer-price-1">
-                                                <li class="price">$568.00<span class="pkg">Avg/Person</span></li>
-                                                <li class="rating">
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star lightgrey"></i></span>
-                                                </li>
-                                            </ul>
-                                        </div><!-- end flight-info -->
-                                    </a>
-                                </div><!-- end flight-block -->
-                            </div><!-- end columns -->
+                                    <div class="offer-price-2">
+                                        <ul class="list-unstyled">
+                                            <li class="price">$459.00<a href="#" ><span class="arrow"><i class="fa fa-angle-right"></i></span></a></li>
+                                        </ul>
+                                    </div><!-- end offer-price-2 -->
 
-                            <div class="col-sm-6 col-md-4">
-                                <div class="main-block flight-block">
-                                    <a href="#">
-                                        <div class="flight-img">
-                                            <img src="images/flight-3.jpg" class="img-responsive" alt="flight-img" />
-                                        </div><!-- end flight-img -->
+                                    <div class="main-info tour-info">
+                                        <div class="main-title tour-title">
+                                            <a href="#">Paris City Tour</a>
+                                            <p>From: Paris</p>
+                                            <div class="rating">
+                                                <span><i class="fa fa-star orange"></i></span>
+                                                <span><i class="fa fa-star orange"></i></span>
+                                                <span><i class="fa fa-star orange"></i></span>
+                                                <span><i class="fa fa-star orange"></i></span>
+                                                <span><i class="fa fa-star grey"></i></span>
+                                            </div>
+                                        </div><!-- end tour-title -->
+                                    </div><!-- end tour-info -->
+                                </div><!-- end tour-block -->
+                            </div><!-- end item -->
 
-                                        <div class="flight-info">
-                                            <div class="flight-title">
-                                                <h3><span class="flight-destination">Spain</span>|<span class="flight-type">OneWay Flight</span></h3>
-                                            </div><!-- end flight-title -->
+                            <div class="item">
+                                <div class="main-block tour-block">
+                                    <div class="main-img">
+                                        <a href="#">
+                                            <img src="images/tour-4.jpg" class="img-responsive" alt="tour-img" />
+                                        </a>
+                                    </div><!-- end offer-img -->
 
-                                            <div class=" flight-timing">
-                                                <ul class="list-unstyled">
-                                                    <li><span><i class="fa fa-plane"></i></span><span class="date">Aug, 02-2017 </span>(8:40 PM)</li>
-                                                    <li><span><i class="fa fa-plane"></i></span><span class="date">Aug, 03-2017 </span>(8:40 PM)</li>
-                                                </ul>
-                                            </div><!-- end flight-timing -->
+                                    <div class="offer-price-2">
+                                        <ul class="list-unstyled">
+                                            <li class="price">$745.00<a href="#" ><span class="arrow"><i class="fa fa-angle-right"></i></span></a></li>
+                                        </ul>
+                                    </div><!-- end offer-price-2 -->
 
-                                            <ul class="list-unstyled list-inline offer-price-1">
-                                                <li class="price">$568.00<span class="pkg">Avg/Person</span></li>
-                                                <li class="rating">
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star lightgrey"></i></span>
-                                                </li>
-                                            </ul>
-                                        </div><!-- end flight-info -->
-                                    </a>
-                                </div><!-- end flight-block -->
-                            </div><!-- end columns -->
+                                    <div class="main-info tour-info">
+                                        <div class="main-title tour-title">
+                                            <a href="#">China Temple Tour</a>
+                                            <p>From: China</p>
+                                            <div class="rating">
+                                                <span><i class="fa fa-star orange"></i></span>
+                                                <span><i class="fa fa-star orange"></i></span>
+                                                <span><i class="fa fa-star orange"></i></span>
+                                                <span><i class="fa fa-star orange"></i></span>
+                                                <span><i class="fa fa-star grey"></i></span>
+                                            </div>
+                                        </div><!-- end tour-title -->
+                                    </div><!-- end tour-info -->
+                                </div><!-- end tour-block -->
+                            </div><!-- end item -->
 
-                            <div class="col-sm-6 col-md-4">
-                                <div class="main-block flight-block">
-                                    <a href="#">
-                                        <div class="flight-img">
-                                            <img src="images/flight-4.jpg" class="img-responsive" alt="flight-img" />
-                                        </div><!-- end flight-img -->
-
-                                        <div class="flight-info">
-                                            <div class="flight-title">
-                                                <h3><span class="flight-destination">Spain</span>|<span class="flight-type">OneWay Flight</span></h3>
-                                            </div><!-- end flight-title -->
-
-                                            <div class=" flight-timing">
-                                                <ul class="list-unstyled">
-                                                    <li><span><i class="fa fa-plane"></i></span><span class="date">Aug, 02-2017 </span>(8:40 PM)</li>
-                                                    <li><span><i class="fa fa-plane"></i></span><span class="date">Aug, 03-2017 </span>(8:40 PM)</li>
-                                                </ul>
-                                            </div><!-- end flight-timing -->
-
-                                            <ul class="list-unstyled list-inline offer-price-1">
-                                                <li class="price">$568.00<span class="pkg">Avg/Person</span></li>
-                                                <li class="rating">
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star lightgrey"></i></span>
-                                                </li>
-                                            </ul>
-                                        </div><!-- end flight-info -->
-                                    </a>
-                                </div><!-- end flight-block -->
-                            </div><!-- end columns -->
-
-                            <div class="col-sm-6 col-md-4">
-                                <div class="main-block flight-block">
-                                    <a href="#">
-                                        <div class="flight-img">
-                                            <img src="images/flight-5.jpg" class="img-responsive" alt="flight-img" />
-                                        </div><!-- end flight-img -->
-
-                                        <div class="flight-info">
-                                            <div class="flight-title">
-                                                <h3><span class="flight-destination">Spain</span>|<span class="flight-type">OneWay Flight</span></h3>
-                                            </div><!-- end flight-title -->
-
-                                            <div class=" flight-timing">
-                                                <ul class="list-unstyled">
-                                                    <li><span><i class="fa fa-plane"></i></span><span class="date">Aug, 02-2017 </span>(8:40 PM)</li>
-                                                    <li><span><i class="fa fa-plane"></i></span><span class="date">Aug, 03-2017 </span>(8:40 PM)</li>
-                                                </ul>
-                                            </div><!-- end flight-timing -->
-
-                                            <ul class="list-unstyled list-inline offer-price-1">
-                                                <li class="price">$568.00<span class="pkg">Avg/Person</span></li>
-                                                <li class="rating">
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star lightgrey"></i></span>
-                                                </li>
-                                            </ul>
-                                        </div><!-- end flight-info -->
-                                    </a>
-                                </div><!-- end flight-block -->
-                            </div><!-- end columns -->
-
-                            <div class="col-sm-6 col-md-4">
-                                <div class="main-block flight-block">
-                                    <a href="#">
-                                        <div class="flight-img">
-                                            <img src="images/flight-6.jpg" class="img-responsive" alt="flight-img" />
-                                        </div><!-- end flight-img -->
-
-                                        <div class="flight-info">
-                                            <div class="flight-title">
-                                                <h3><span class="flight-destination">Spain</span>|<span class="flight-type">OneWay Flight</span></h3>
-                                            </div><!-- end flight-title -->
-
-                                            <div class=" flight-timing">
-                                                <ul class="list-unstyled">
-                                                    <li><span><i class="fa fa-plane"></i></span><span class="date">Aug, 02-2017 </span>(8:40 PM)</li>
-                                                    <li><span><i class="fa fa-plane"></i></span><span class="date">Aug, 03-2017 </span>(8:40 PM)</li>
-                                                </ul>
-                                            </div><!-- end flight-timing -->
-
-                                            <ul class="list-unstyled list-inline offer-price-1">
-                                                <li class="price">$568.00<span class="pkg">Avg/Person</span></li>
-                                                <li class="rating">
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star orange"></i></span>
-                                                    <span><i class="fa fa-star lightgrey"></i></span>
-                                                </li>
-                                            </ul>
-                                        </div><!-- end flight-info -->
-                                    </a>
-                                </div><!-- end flight-block -->
-                            </div><!-- end columns -->
-
-                        </div><!-- end row -->
+                        </div><!-- end owl-tour-offers -->
 
                         <div class="view-all text-center">
                             <a href="#" class="btn btn-orange">View All</a>
@@ -818,71 +419,15 @@
                     </div><!-- end columns -->
                 </div><!-- end row -->
             </div><!-- end container -->
-        </section><!-- end flight-offers -->
+        </section><!-- end tour-offers -->
 
-
-        <!--==================== HIGHLIGHTS ====================-->
-        <section id="highlights" class="section-padding back-size"> 
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                        <div class="row">
-                            <div id="boxes">
-
-                                <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">  
-                                    <div class="highlight-box">
-                                        <div class="h-icon">
-                                            <span><i class="fa fa-plane"></i></span>
-                                        </div><!-- end h-icon -->
-
-                                        <div class="h-text">
-                                            <span class="numbers">2496</span>
-                                            <p>Outstanding Tours</p>
-                                        </div><!-- end h-text -->                           
-                                    </div><!-- end highlight-box -->                       
-                                </div><!-- end columns -->
-
-                                <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">  
-                                    <div class="highlight-box">
-                                        <div class="h-icon">
-                                            <span><i class="fa fa-ship"></i></span>
-                                        </div><!-- end h-icon -->
-
-                                        <div class="h-text cruise">
-                                            <span class="numbers">1906</span>
-                                            <p>Worldwide Cruise</p> 
-                                        </div><!-- end h-text -->                           
-                                    </div><!-- end highlight-box -->                       
-                                </div><!-- end columns -->
-
-                                <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">  
-                                    <div class="highlight-box">
-                                        <div class="h-icon">
-                                            <span><i class="fa fa-taxi"></i></span>
-                                        </div><!-- end h-icon -->
-
-                                        <div class="h-text taxi">
-                                            <span class="numbers">2033</span>
-                                            <p>Luxury Car Booking</p>   
-                                        </div><!-- end h-text -->                           
-                                    </div><!-- end highlight-box -->                       
-                                </div><!-- end columns -->
-
-                            </div><!-- end boxes -->
-                        </div><!-- end row -->
-                    </div><!-- end columns -->
-                </div><!-- end row -->
-            </div><!-- end container -->
-        </section><!-- end highlights -->
-
-
-        <!--================ VEHICLE OFFERS ==============-->
+        <!--================ Attraction ==============-->
         <section id="vehicle-offers" class="section-padding">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="page-heading">
-                            <h2>Vehicle Offers</h2>
+                            <h2>Attraction</h2>
                             <hr class="heading-line" />
                         </div><!-- end page-heading -->
 
@@ -1065,131 +610,6 @@
                 </div><!-- end row -->
             </div><!-- end container -->
         </section><!-- end testimonials --> 
-
-
-        <!--================ LATEST BLOG ==============-->
-        <section id="latest-blog" class="section-padding">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="page-heading">
-                            <h2>Our Latest Blogs</h2>
-                            <hr class="heading-line" />
-                        </div>
-
-                        <div class="row">
-
-                            <div class="col-sm-6 col-md-4">
-                                <div class="main-block latest-block">
-                                    <div class="main-img latest-img">
-                                        <a href="#">
-                                            <img src="images/latest-blog-1.jpg" class="img-responsive" alt="blog-img" />
-                                        </a>
-                                    </div><!-- end latest-img -->
-
-                                    <div class="latest-info">
-                                        <ul class="list-unstyled">
-                                            <li><span><i class="fa fa-calendar-minus-o"></i></span>29 April,2017<span class="author">by: <a href="#">Jhon Smith</a></span></li>
-                                        </ul>
-                                    </div><!-- end latest-info -->
-
-                                    <div class="main-info latest-desc">
-                                        <div class="row">
-                                            <div class="col-xs-10 col-sm-10 main-title">
-                                                <a href="#">Travel Insuranve Benefits</a>
-                                                <p>Veniam delectus ei vis. Est atqui timeam mnesarchum at, pro an eros perpetua ullamcorper.</p>
-                                            </div><!-- end columns -->
-                                        </div><!-- end row -->
-
-                                        <span class="arrow"><a href="#"><i class="fa fa-angle-right"></i></a></span>
-                                    </div><!-- end latest-desc -->
-                                </div><!-- end latest-block -->
-                            </div><!-- end columns -->
-
-                            <div class="col-sm-6 col-md-4">
-                                <div class="main-block latest-block">
-                                    <div class="main-img latest-img">
-                                        <a href="#">
-                                            <img src="images/latest-blog-2.jpg" class="img-responsive" alt="blog-img" />
-                                        </a>
-                                    </div><!-- end latest-img -->
-
-                                    <div class="latest-info">
-                                        <ul class="list-unstyled">
-                                            <li><span><i class="fa fa-calendar-minus-o"></i></span>29 April,2017<span class="author">by: <a href="#">Jhon Smith</a></span></li>
-                                        </ul>
-                                    </div><!-- end latest-info -->
-
-                                    <div class="main-info latest-desc">
-                                        <div class="row">
-                                            <div class="col-xs-10 col-sm-10 main-title">
-                                                <a href="#">Travel Guideline Agents</a>
-                                                <p>Veniam delectus ei vis. Est atqui timeam mnesarchum at, pro an eros perpetua ullamcorper.</p>
-                                            </div><!-- end columns -->
-                                        </div><!-- end row -->
-
-                                        <span class="arrow"><a href="#"><i class="fa fa-angle-right"></i></a></span>
-                                    </div><!-- end latest-desc -->
-                                </div><!-- end latest-block -->
-                            </div><!-- end columns -->
-
-                            <div class="col-sm-6 col-md-4">
-                                <div class="main-block latest-block">
-                                    <div class="main-img latest-img">
-                                        <a href="#">
-                                            <img src="images/latest-blog-3.jpg" class="img-responsive" alt="blog-img" />
-                                        </a>
-                                    </div><!-- end latest-img -->
-
-                                    <div class="latest-info">
-                                        <ul class="list-unstyled">
-                                            <li><span><i class="fa fa-calendar-minus-o"></i></span>29 April,2017<span class="author">by: <a href="#">Jhon Smith</a></span></li>
-                                        </ul>
-                                    </div><!-- end latest-info -->
-
-                                    <div class="main-info latest-desc">
-                                        <div class="row">
-                                            <div class="col-xs-10 col-sm-10 main-title">
-                                                <a href="#">Secure Travel Tips</a>
-                                                <p>Veniam delectus ei vis. Est atqui timeam mnesarchum at, pro an eros perpetua ullamcorper.</p>
-                                            </div><!-- end columns -->
-                                        </div><!-- end row -->
-
-                                        <span class="arrow"><a href="#"><i class="fa fa-angle-right"></i></a></span>
-                                    </div><!-- end latest-desc -->
-                                </div><!-- end latest-block -->
-                            </div><!-- end columns -->
-
-                        </div><!-- end row -->
-
-                        <div class="view-all text-center">
-                            <a href="#" class="btn btn-orange">View All</a>
-                        </div><!-- end view-all -->  
-                    </div><!-- end columns -->
-                </div><!-- end row -->
-            </div><!-- end container -->
-        </section><!-- end latest-blog -->         
-
-
-        <!--========================= NEWSLETTER-1 ==========================-->
-        <section id="newsletter-1" class="section-padding back-size newsletter"> 
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
-                        <h2>Subscribe Our Newsletter</h2>
-                        <p>Subscibe to receive our interesting updates</p>	
-                        <form>
-                            <div class="form-group">
-                                <div class="input-group">
-                                    <input type="email" class="form-control input-lg" placeholder="Enter your email address" required/>
-                                    <span class="input-group-btn"><button class="btn btn-lg"><i class="fa fa-envelope"></i></button></span>
-                                </div>
-                            </div>
-                        </form>
-                    </div><!-- end columns -->
-                </div><!-- end row -->
-            </div><!-- end container -->
-        </section><!-- end newsletter-1 -->
 
         <?php
         include_once './footer.php';
