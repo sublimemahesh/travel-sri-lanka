@@ -63,12 +63,12 @@
 
             <div class="list-group panel">
 
-                <a href="./" class="list-group-item active" data-toggle="collapse" data-parent="#main-menu">Home</a>
-                <a href="about-us.php" class="list-group-item" data-toggle="collapse" data-parent="#main-menu">About us</a>
-                <a href="#" class="list-group-item" data-toggle="collapse" data-parent="#main-menu">Tour Package</a>
-                <a href="#" class="list-group-item" data-toggle="collapse" data-parent="#main-menu">Activity</a>
-                <a href="#" class="list-group-item" data-toggle="collapse" data-parent="#main-menu">Attraction</a>
-                <a href="#" class="list-group-item" data-toggle="collapse" data-parent="#main-menu">Contact us</a>
+                <a href="./" class="list-group-item">Home</a>
+                <a href="about-us.php" class="list-group-item">About us</a>
+                <a href="#" class="list-group-item">Tour Package</a>
+                <a href="#" class="list-group-item">Activity</a>
+                <a href="#" class="list-group-item">Attraction</a>
+                <a href="#" class="list-group-item">Contact us</a>
 
 
             </div><!-- end list-group -->
